@@ -1,13 +1,13 @@
 //
-//  CounterrUITestsLaunchTests.swift
-//  CounterrUITests
+//  CounterUITestsLaunchTests.swift
+//  CounterUITests
 //
-//  Created by Даниил Лапышов on 13.10.2024.
+//  Created by Даниил Лапышов on 9.10.2024.
 //
 
 import XCTest
 
-final class CounterrUITestsLaunchTests: XCTestCase {
+final class CounterUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

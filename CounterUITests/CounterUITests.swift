@@ -1,13 +1,13 @@
 //
-//  CounterrUITests.swift
-//  CounterrUITests
+//  CounterUITests.swift
+//  CounterUITests
 //
-//  Created by Даниил Лапышов on 13.10.2024.
+//  Created by Даниил Лапышов on 9.10.2024.
 //
 
 import XCTest
 
-final class CounterrUITests: XCTestCase {
+final class CounterUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
