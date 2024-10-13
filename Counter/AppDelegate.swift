@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Counterr
+//  Counter
 //
-//  Created by Даниил Лапышов on 13.10.2024.
+//  Created by Даниил Лапышов on 9.10.2024.
 //
 
 import UIKit

@@ -1,14 +1,14 @@
 //
-//  CounterrTests.swift
-//  CounterrTests
+//  CounterTests.swift
+//  CounterTests
 //
-//  Created by Даниил Лапышов on 13.10.2024.
+//  Created by Даниил Лапышов on 9.10.2024.
 //
 
 import XCTest
-@testable import Counterr
+@testable import Counter
 
-final class CounterrTests: XCTestCase {
+final class CounterTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
